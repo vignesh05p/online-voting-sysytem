@@ -1,0 +1,14 @@
+Online voting systme application
+
+Steps for Publishing the website on the local host.
+1.	Downlaod and install xampp server.
+2.	Extract the zip file named 'voting' in the htdocs folder.
+3.	Run xampp server and create a database named 'project'.
+4.	Import the 'project.sql' file that is present inside the 'voting' folder
+5.	Write this 'localhost/voting' in the url bar.
+
+
+Admin Login:
+
+username: admin	
+password: 123
